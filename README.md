@@ -13,8 +13,8 @@ engineering-driven robotics solutions.
 
 ## 🔗 Links
 - 💼 LinkedIn: https://www.linkedin.com/in/p-sarikas/
-- 💻 GitHub: https://github.com/p-sarikas
-- 🌐 Linktree: 
+- 💻 GitHub:   https://github.com/p-sarikas
+- 🌐 Linktree: https://linktr.ee/p.sarikas
 - 📍 Location: Netherlands
 
 ---
