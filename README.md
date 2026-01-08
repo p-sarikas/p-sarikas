@@ -49,7 +49,10 @@ engineering-driven robotics solutions.
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white)
 ![Keras](https://img.shields.io/badge/Keras-D00000?logo=keras&logoColor=white)
-
+![PyBullet](https://img.shields.io/badge/PyBullet-000000?logo=python&logoColor=white)
+![K3D](https://img.shields.io/badge/K3D-4B8BBE?logo=python&logoColor=white)
+![IPython](https://img.shields.io/badge/IPython-3670A0?logo=python&logoColor=white)
+![YOLOv4 (Darknet)](https://img.shields.io/badge/YOLOv4-Darknet-00FFFF?logo=github&logoColor=black)
 ---
 
 ## 🚀 Projects
