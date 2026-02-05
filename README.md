@@ -56,6 +56,11 @@ engineering-driven robotics solutions.
 ---
 
 ## 🚀 Projects
+- **Hierarchical Quadrotor Planning and Decision-Making**
+
+  Implements an autonomous navigation framework for a quadrotor in simulated indoor environments, combining global path planning (Probabilistic Roadmaps and grid-based planning with A*/Dijkstra) and local motion control (PID and Model Predictive Path Integral control). The system enables collision-free multi-goal navigation, online obstacle avoidance, and smooth trajectory execution, evaluated in 2D and 3D simulations using gym-pybullet-drones.
+
+
 - **ROS2 Autonomous Mobile Robot Navigation**
 
   Implements an autonomous driving system for a simulated mobile robot (Mirte) in ROS 2 (Humble), enabling navigation through a cone-defined track with obstacle avoidance and pedestrian stopping. Combines 3D point-cloud processing (PCL) and 2D vision-based pedestrian detection (OpenCV) to generate safe velocity commands.
