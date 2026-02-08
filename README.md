@@ -65,12 +65,17 @@ engineering-driven robotics solutions.
 
   Implements an autonomous driving system for a simulated mobile robot (Mirte) in ROS 2 (Humble), enabling navigation through a cone-defined track with obstacle avoidance and pedestrian stopping. Combines 3D point-cloud processing (PCL) and 2D vision-based pedestrian detection (OpenCV) to generate safe velocity commands.
 
+- **Imitation Learning for Vision-Based Robot Control**
+
+  Imitation learning–based control of a mobile robot using RGB camera input only. Learns a policy that maps visual observations to discrete navigation actions and evaluates performance both offline and in simulation.
+
+- **Multi-Sensor 3D Pedestrian Detection**
+
+  Developed a detect-then-localize pipeline that combines YOLO-based 2D pedestrian detection with LiDAR and radar data to estimate accurate 3D pedestrian positions in the camera frame.
+The system applies geometric constraints, sensor fusion, and ground-plane backprojection to robustly localize pedestrians under varying distances and scene conditions.
 
 - **Simulation of an Electronic Differential for Electric Vehicles**
 
   Modeling and simulation of an electronic differential for a lightweight EV using Ackermann steering. Compares DC motor and PMSM-based in-wheel architectures with advanced control (FOC, SVPWM) to evaluate vehicle stability and traction.
-
-- **Imitation Learning for Vision-Based Robot Control**
-
-  Imitation learning–based control of a mobile robot using RGB camera input only. Learns a policy that maps visual observations to discrete navigation actions and evaluates performance both offline and in simulation.
+  
 ---
