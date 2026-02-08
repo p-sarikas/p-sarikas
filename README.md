@@ -53,6 +53,8 @@ engineering-driven robotics solutions.
 ![K3D](https://img.shields.io/badge/K3D-4B8BBE?logo=python&logoColor=white)
 ![IPython](https://img.shields.io/badge/IPython-3670A0?logo=python&logoColor=white)
 ![YOLOv4 (Darknet)](https://img.shields.io/badge/YOLOv4-Darknet-00FFFF?logo=github&logoColor=black)
+![JAX](https://img.shields.io/badge/JAX-FFFFFF?logo=data:image/svg+xml;base64,ENCODED_SVG)
+
 ---
 
 ## 🚀 Projects
