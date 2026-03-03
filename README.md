@@ -32,6 +32,8 @@ engineering-driven robotics solutions.
 ![RViz](https://img.shields.io/badge/RViz-22314E?logo=ros&logoColor=white)
 ![Gazebo](https://img.shields.io/badge/Gazebo-6C757D?logo=gazebo&logoColor=white)
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?logo=arduino&logoColor=white)
+![PDDL](https://img.shields.io/badge/PDDL-Planning%20Domain%20Definition%20Language-blue)
+![PlanSys2](https://img.shields.io/badge/PlanSys2-ROS2%20Planning%20System-orange)
 
 ### Simulation & Tools
 ![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)
