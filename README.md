@@ -64,6 +64,13 @@ engineering-driven robotics solutions.
 
   Implements an autonomous navigation framework for a quadrotor in simulated indoor environments, combining global path planning (Probabilistic Roadmaps and grid-based planning with A*/Dijkstra) and local motion control (PID and Model Predictive Path Integral control). The system enables collision-free multi-goal navigation, online obstacle avoidance, and smooth trajectory execution, evaluated in 2D and 3D simulations using gym-pybullet-drones.
 
+- **Autonomous Robot Planning with Symbolic AI & Semantic Reasoning**
+
+  Implements a hybrid autonomous robot architecture that combines symbolic planning (PDDL, PlanSys2) with a semantic knowledge base (TypeDB) for decision-making in dynamic, partially observable environments. The system enables adaptive task execution through real-time world modeling, semantic inference, and modular multi-stage planning. Evaluated on RoboCup-inspired tasks including object manipulation, semantic tidying, and contextual object retrieval in ROS2/Gazebo simulation.
+
+- **Model Predictive Control for Vehicle Lane-Keeping**
+
+  Develops a constrained Model Predictive Control (MPC) framework for vehicle lane-keeping using a linearized dynamic bicycle model. The controller enforces state and input constraints while optimizing tracking performance, and includes both regulation and offset-free formulations for disturbance rejection. Performance is validated through simulation and benchmarked against LQR, demonstrating improved robustness and constraint satisfaction.
 
 - **ROS2 Autonomous Mobile Robot Navigation**
 
