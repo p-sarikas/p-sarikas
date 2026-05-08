@@ -1,6 +1,6 @@
 # Hi, I'm Panagiotis 👋
 
-Mechanical Engineer and Robotics Engineer with 3+ years of experience across
+Robotics Engineer and Mechanical Engineer with 3+ years of experience across
 robotics systems, mechanical design, and engineering projects.
 Currently completing an MSc in Robotics at TU Delft.
 
@@ -27,19 +27,28 @@ engineering-driven robotics solutions.
 ![C++](https://img.shields.io/badge/C++-00599C?logo=cplusplus&logoColor=white)
 ![MATLAB](https://img.shields.io/badge/MATLAB-FF8000?logo=mathworks&logoColor=white)
 
-### Robotics & Control
-![ROS2](https://img.shields.io/badge/ROS2-22314E?logo=ros&logoColor=white)
-![RViz](https://img.shields.io/badge/RViz-22314E?logo=ros&logoColor=white)
-![Gazebo](https://img.shields.io/badge/Gazebo-6C757D?logo=gazebo&logoColor=white)
-![Arduino](https://img.shields.io/badge/Arduino-00979D?logo=arduino&logoColor=white)
-![PDDL](https://img.shields.io/badge/PDDL-Planning%20Domain%20Definition%20Language-blue)
-![PlanSys2](https://img.shields.io/badge/PlanSys2-ROS2%20Planning%20System-orange)
-
 ### Simulation & Tools
 ![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)
 ![GitLab](https://img.shields.io/badge/GitLab-FCA121?logo=gitlab&logoColor=black)
+
+### Robotics & Control
+![ROS2](https://img.shields.io/badge/ROS2-22314E?logo=ros&logoColor=white)
+![RViz](https://img.shields.io/badge/RViz-22314E?logo=ros&logoColor=white)
+![Gazebo](https://img.shields.io/badge/Gazebo-6C757D?logo=gazebo&logoColor=white)
+![Arduino](https://img.shields.io/badge/Arduino-00979D?logo=arduino&logoColor=white)
+![MPC](https://img.shields.io/badge/MPC-Model%20Predictive%20Control-darkgreen)
+![MPPI](https://img.shields.io/badge/MPPI-Path%20Integral%20Control-purple)
+
+### Symbolic AI & Semantic Reasoning
+![PDDL](https://img.shields.io/badge/PDDL-Planning%20Domain%20Definition%20Language-blue)
+![PlanSys2](https://img.shields.io/badge/PlanSys2-ROS2%20Planning%20System-orange)
+![SQL](https://img.shields.io/badge/SQL-003B57?logo=postgresql&logoColor=white)
+![OWL](https://img.shields.io/badge/OWL-Web%20Ontology%20Language-6A5ACD)
+![SPARQL](https://img.shields.io/badge/SPARQL-Semantic%20Query%20Language-1E90FF)
+![Ontologies](https://img.shields.io/badge/Ontologies-Knowledge%20Representation-8A2BE2)
+![TypeDB](https://img.shields.io/badge/TypeDB-Knowledge%20Graph-4B0082)
 
 ### Engineering
 ![SolidWorks](https://img.shields.io/badge/SolidWorks-E60012)
